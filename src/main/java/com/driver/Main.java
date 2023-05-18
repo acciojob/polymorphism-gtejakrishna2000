@@ -10,7 +10,7 @@ package com.driver;
 //            return x*y;
 //        }
 //    }
-class Main {
+public class Main {
     static class Product {
         public int product(int x, int y){
             return x*y;
